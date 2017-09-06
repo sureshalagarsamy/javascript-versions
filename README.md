@@ -25,7 +25,7 @@ ECMAScript 7 is also called ECMAScript 2016.
 
 # Browser Support
 * ECMAScript 3 is fully supported in all browsers.
-* ECMAScript 5 is fully supported in all modern browsers*.
+* ECMAScript 5 is fully supported in all modern browsers.
 * ECMAScript 6 is partially supported in all modern browsers.
 * ECMAScript 7 is poorly supported in all browsers.
 
